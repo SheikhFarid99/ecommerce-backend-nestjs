@@ -1,0 +1,16 @@
+{
+  "invalid_type": "{{path}}-এর তথ্যের ধরন সঠিক নয়",
+  "invalid_format": "{{path}}-এর ফরম্যাট সঠিক নয়",
+  "too_small": {
+    "string": "{{path}} কমপক্ষে {{minimum}} অক্ষরের হতে হবে",
+    "number": "{{path}} কমপক্ষে {{minimum}} হতে হবে",
+    "array": "{{path}}-এ কমপক্ষে {{minimum}}টি আইটেম থাকতে হবে"
+  },
+  "too_big": {
+    "string": "{{path}} সর্বোচ্চ {{maximum}} অক্ষরের হতে পারবে",
+    "number": "{{path}} সর্বোচ্চ {{maximum}} হতে পারবে",
+    "array": "{{path}}-এ সর্বোচ্চ {{maximum}}টি আইটেম থাকতে পারবে"
+  },
+  "invalid_value": "{{path}}-এর মান সঠিক নয়",
+  "custom": "{{path}}-এর মান সঠিক নয়"
+}

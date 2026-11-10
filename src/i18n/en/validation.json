@@ -1,0 +1,16 @@
+{
+  "invalid_type": "Invalid data type for {{path}}",
+  "invalid_format": "Invalid format for {{path}}",
+  "too_small": {
+    "string": "{{path}} must contain at least {{minimum}} characters",
+    "number": "{{path}} must be at least {{minimum}}",
+    "array": "{{path}} must contain at least {{minimum}} items"
+  },
+  "too_big": {
+    "string": "{{path}} must contain at most {{maximum}} characters",
+    "number": "{{path}} must not exceed {{maximum}}",
+    "array": "{{path}} must contain at most {{maximum}} items"
+  },
+  "invalid_value": "Invalid value for {{path}}",
+  "custom": "Invalid value for {{path}}"
+}

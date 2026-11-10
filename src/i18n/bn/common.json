@@ -1,0 +1,18 @@
+{
+  "BAD_REQUEST": "Bad request",
+  "UNAUTHORIZED": "Unauthorized access",
+  "FORBIDDEN": "You do not have permission to access this resource",
+  "NOT_FOUND": "Resource not found",
+  "METHOD_NOT_ALLOWED": "Method not allowed",
+  "REQUEST_TIMEOUT": "Request timeout",
+  "CONFLICT": "Resource conflict",
+  "PAYLOAD_TOO_LARGE": "Payload too large",
+  "UNSUPPORTED_MEDIA_TYPE": "Unsupported media type",
+  "UNPROCESSABLE_ENTITY": "Unable to process the request",
+  "TOO_MANY_REQUESTS": "Too many requests",
+  "INTERNAL_ERROR": "Internal server error",
+  "BAD_GATEWAY": "Bad gateway",
+  "SERVICE_UNAVAILABLE": "Service temporarily unavailable",
+  "GATEWAY_TIMEOUT": "Gateway timeout",
+  "VALIDATION_FAILED": "Validation failed"
+}
